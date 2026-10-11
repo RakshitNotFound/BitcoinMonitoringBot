@@ -21,3 +21,15 @@ BitcoinMonitor/
 ├── .env              # Environment variables (Ignored by Git)
 ├── .gitignore        # Excludes sensitive files from version control
 └── README.md         # Documentation
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+
+Make sure you have Python installed on your machine along with the required libraries:
+
+```bash
+pip install ccxt python-dotenv requests
